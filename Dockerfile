@@ -1,4 +1,4 @@
-FROM docker:25.0.0-cli
+FROM docker:29.5.2-cli
 
 ENV DOCKER_API_VERSION=1.44
 
